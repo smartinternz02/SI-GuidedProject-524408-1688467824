@@ -1,4 +1,4 @@
-##### THYROID CLASSIFICATION USING DATA SCIENCE #####
+# THYROID CLASSIFICATION USING DATA SCIENCE
 
 # ABOUT THYROID DISEASE:
 
@@ -51,7 +51,7 @@ The result will be one of the following:
 11. Hyperparameter Tuning - Evaluating the Performance of the selected model using GridSearchCV and Cross Validation
 12. Saving the Model (as .pkl file)
 
-# REPOSITORY CONTAINS
+# REPOSITORY CONTAINS:
 
 1. thyroid_data.csv
 2. Thyroid Classifier.ipynb
@@ -65,11 +65,27 @@ The result will be one of the following:
 10. Project Demonstration Video
 11. README.md
 
-# STEPS FOR EXECUTION
+# STEPS FOR EXECUTION:
 
 1. Extract the files of the repository to a folder.
 2. Run the app.py on Spider IDE.
 3. Copy the output url and paste it in the browser to get the output.
 
-# SCREENSHOTS
+# SCREENSHOTS:
+
+![1](https://github.com/smartinternz02/SI-GuidedProject-524408-1688467824/assets/102913053/a24c8513-385a-4963-a6d1-cb581d68e090)
+![2](https://github.com/smartinternz02/SI-GuidedProject-524408-1688467824/assets/102913053/97d9076b-dd3b-43c2-9709-695174379f7c)
+![3](https://github.com/smartinternz02/SI-GuidedProject-524408-1688467824/assets/102913053/476b68fd-f10d-463f-84b0-6f4f3116b56d)
+![3output](https://github.com/smartinternz02/SI-GuidedProject-524408-1688467824/assets/102913053/60d2cc5a-19f5-48af-bd2e-566a532ae9b1)
+![4](https://github.com/smartinternz02/SI-GuidedProject-524408-1688467824/assets/102913053/63d3c47b-3797-4534-9bc1-684e6893fa9e)
+![4output](https://github.com/smartinternz02/SI-GuidedProject-524408-1688467824/assets/102913053/0fe6a7ff-b148-464e-b5db-f97184acf6ab)
+![5](https://github.com/smartinternz02/SI-GuidedProject-524408-1688467824/assets/102913053/31dbabfa-878e-400e-8599-eb51a76362a8)
+![5output](https://github.com/smartinternz02/SI-GuidedProject-524408-1688467824/assets/102913053/3800d754-2812-44d7-b39c-53119e6da2fe)
+![6](https://github.com/smartinternz02/SI-GuidedProject-524408-1688467824/assets/102913053/347f5414-bae5-4f69-960a-b26088ef8524)
+![6output](https://github.com/smartinternz02/SI-GuidedProject-524408-1688467824/assets/102913053/55f6c29b-d874-4bbd-ac33-5bdc916794ad)
+
+
+# DEMO VIDEO LINK:
+
+https://drive.google.com/file/d/1vhDNBqW1u1N1EedYTXHjAUYcn9OWv1lQ/view?usp=sharing
 
